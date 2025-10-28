@@ -72,7 +72,7 @@ export default function LoginPage({ onLogin, onSwitchToSignup }) {
               onChange={(e) => setEmail(e.target.value)}
               required
               className="w-full px-4 py-2 border border-gray-300 rounded-lg shadow-sm"
-              placeholder="user@app.com"
+              placeholder="user@gmail.com"
             />
           </div>
 
